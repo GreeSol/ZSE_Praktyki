@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c256de7-87db-420c-b283-defd6455beb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/first_week/statements/lekcja_warunki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second_week/zadania/zadanie4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.lekcja_warunki">
+  <component name="RunManager" selected="Application.zadanie4">
     <configuration name="lekcja_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basics.lekcja_basics" />
       <module name="ZSE_Praktyki" />
@@ -68,8 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.zadania.zadanie4" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanie4" />
         <item itemvalue="Application.lekcja_warunki" />
         <item itemvalue="Application.lekcja_basics" />
       </list>
