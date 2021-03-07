@@ -2,7 +2,7 @@ package second_week.zadania;
 
 import java.util.Scanner;
 
-public class zadanie4 {
+public class zadania4 {
     public static void main(String[] args) {
         Scanner skaner = new Scanner(System.in);
         System.out.println("Wpisz liczbę: ");
@@ -34,6 +34,6 @@ if(has.equals("haslo")){
 else{
         System.out.println("Hasło źle wpisane");
     }
-    
+
 }
 }
