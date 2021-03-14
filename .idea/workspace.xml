@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c256de7-87db-420c-b283-defd6455beb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/third_week/dziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/third_week/privateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/third_week/dziedziczenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/third_week/dziedziczenie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
