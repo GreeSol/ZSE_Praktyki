@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c256de7-87db-420c-b283-defd6455beb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second_week/arrays/lekcja_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second_week/zadania/zadania5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second_week/zadania/zadania6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second_week/zadania/zadania7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second_week/zadania/zadania8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third_week/dziedziczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third_week/privateExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZSE_Praktyki/second_week/zadania/zadanie4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/second_week/zadania/zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second_week/zadania/zadania4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +46,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zadania8$Piece">
-    <configuration name="zadania5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.zadania.zadania5" />
+  <component name="RunManager" selected="Application.privateExample">
+    <configuration name="dziedziczenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.dziedziczenie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.zadania.*" />
+          <option name="PATTERN" value="third_week.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.zadania.zadania6" />
+    <configuration name="privateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.privateExample" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.zadania.*" />
+          <option name="PATTERN" value="third_week.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.privateExample" />
+        <item itemvalue="Application.dziedziczenie" />
         <item itemvalue="Application.zadania8$Piece" />
         <item itemvalue="Application.zadania8" />
         <item itemvalue="Application.zadania7" />
-        <item itemvalue="Application.zadania6" />
-        <item itemvalue="Application.zadania5" />
       </list>
     </recent_temporary>
   </component>
